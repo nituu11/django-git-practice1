@@ -1,1 +1,1 @@
-# django-git-practice1
+Edited from GitHub website.
